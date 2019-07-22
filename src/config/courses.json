@@ -1,0 +1,18 @@
+[
+  {
+    "courseCode": "CSC336",
+    "courseName": "Numerical Methods",
+    "description": ["The study of computational methods for solving problems in linear algebra, non-linear equations, and approximation. The aim is to give students a basic understanding of both floating-point arithmetic and the implementation of algorithms used to solve numerical problems, as well as a familiarity with current numerical computing environments."],
+    "featured": true
+  },
+  {
+    "courseCode": "CSC485",
+    "courseName": "Computational Linguistics",
+    "description": [
+      "Computational linguistics and the processing of language by computer.",
+      "Topics include: context-free grammars; chart parsing, statistical parsing; semantics and semantic interpretation; ambiguity resolution techniques; reference resolution.",
+      "Emphasis on statistical learning methods for lexical, syntactic, and semantic knowledge."
+    ],
+    "featured": true
+  }
+]
